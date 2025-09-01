@@ -1,7 +1,6 @@
 import ImageCarousel from "../components/ImageCarousel";
 import Categories from "../components/Categories";
 import EasyAccess from "../components/EasyAccess";
-// import { useState } from "react";
 
 export default function Home({ productData, availableCategories }) {
   return (
